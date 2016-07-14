@@ -1,0 +1,29 @@
+{
+  "name": "react-webpack-build-boilerplate",
+  "version": "1.0.0",
+  "description": "// 在开发环境构建一次 webpack",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.9.0",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.2.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhmpro/react-webpack-build-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhmpro/react-webpack-build-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hhmpro/react-webpack-build-boilerplate"
+}
